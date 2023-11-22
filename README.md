@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1.7-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/CardFactory/CFPhisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/CardFactory/CFPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/CardFactory/CFPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/CardFactory/CFPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/CardFactory/CFPhisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/CardFactory/CFPhisher.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/Cardfactoryadmin/CFPhisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/Cardfactoryadmin/CFPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/Cardfactoryadmin/CFPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/Cardfactoryadmin/CFPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Cardfactoryadmin/CFPhisher?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/Cardfactoryadmin/CFPhisher.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-CardFactory-purple?style=flat-square">
@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/CardFactory/CFPhisher/main/CFPhisher.py && python3 CFPhisher.py
+wget https://raw.githubusercontent.com/Cardfactoryadmin/CFPhisher/main/CFPhisher.py && python3 CFPhisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/CardFactory/CFPhisher/main/CFPhisher.py &
 
 ### Docker
 
- - `sudo docker pull CardFactory/CFPhisher`
- - `sudo docker run --rm -it CardFactory/CFPhisher`
+ - `sudo docker pull Cardfactoryadmin/CFPhisher`
+ - `sudo docker run --rm -it Cardfactoryadmin/CFPhisher`
 
 ### Support
 
@@ -163,7 +163,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![CFPhisher](https://raw.githubusercontent.com/CardFactory/CFPhisher/main/files/cfphisher.gif)
+![CFPhisher](https://raw.githubusercontent.com/Cardfactoryadmin/CFPhisher/main/files/cfphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/CFPhishervideo">CFPhisher in Termux</a>

@@ -1065,7 +1065,7 @@ def updater():
     if not isfile("files/CFPhisher.gif"):
         return
     try:
-        toml_data = get("https://raw.githubusercontent.com/CardFactory/CFPhisher/main/files/pyproject.toml").text
+        toml_data = get("https://raw.githubusercontent.com/Cardfactoryadmin/CFPhisher/main/files/pyproject.toml").text
         pattern = r'version\s*=\s*"([^"]+)"'
         match = search(pattern, toml_data)
         if match:
@@ -1077,7 +1077,7 @@ def updater():
         gh_ver = version
     if gh_ver != "404: Not Found" and get_ver(gh_ver) > get_ver(version):
         # Changelog of each versions are seperated by three empty lines
-        changelog = get("https://raw.githubusercontent.com/CardFactory/CFPhisher/main/files/changelog.log").text.split("\n\n\n")[0]
+        changelog = get("https://raw.githubusercontent.com/Cardfactoryadmin/CFPhisher/main/files/changelog.log").text.split("\n\n\n")[0]
         clear(fast=True)
         print(f"{info}\x43\x46\x50\x68\x69\x73\x68\x65\x72 has a new update!\n{info2}Current: {red}{version}\n{info}Available: {green}{gh_ver}")
         upask=input(f"\n{ask}Do you want to update \x43\x46\x50\x68\x69\x73\x68\x65\x72?[y/n] > {green}")
