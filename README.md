@@ -161,16 +161,6 @@ If not found, php and python modoules will be installed on first run
 4. Send the generated link to victim
 5. Wait for victim login. As soon as he/she logs in, credentials will be captured
 
-<h1 align="center">Example</h1>
-
-![CFPhisher](https://raw.githubusercontent.com/Cardfactoryadmin/CFPhisher/main/files/cfphisher.gif)
-
-## Video Tutorial
-<a href="https://rebrand.ly/CFPhishervideo">CFPhisher in Termux</a>
-<br/>
-<a href="https://youtu.be/xIEuJkmJ8F0">CFPhisher in Kali Linux by InfoSecPat</a>
-<br/>
-<a href="https://youtu.be/ueF6fNHD8MM">CFPhisher in Kali Linux by Sathvik</a>
 
 ## Whats new in 1.8?
  - *Mailing*
