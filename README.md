@@ -21,9 +21,7 @@
 
 ***Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.***
 
-### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -199,7 +197,6 @@ If not found, php and python modoules will be installed on first run
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
 ## Credits:
-Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/jaykali/maskphish)
 
 
 ### [*] Support
